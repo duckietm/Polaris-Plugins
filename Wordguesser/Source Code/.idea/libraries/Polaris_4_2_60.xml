@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Polaris-4.2.60">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Arcturus-Morningstar-Extended_camwijs/Emulator/target/Polaris-4.2.60.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
